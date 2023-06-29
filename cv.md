@@ -1,2 +1,3 @@
 start
 run
+stop
